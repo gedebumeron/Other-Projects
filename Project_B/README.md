@@ -20,7 +20,7 @@ Communication analysis: Analyze the methods through which consusmers prefer to c
 
   Communication Methods Analysis: Offers breakdown of complaint percentages by communication methods, highlighting the most and least effective channels.
   Top 5 Complaints: Lists the most common complaints, giving proority areas for improvment.
-- ![Key Insights](project3_dashboard.png)
+- ![Key Insights](https://github.com/gedebumeron/Other-Projects/blob/main/Consumer%20complaints%202.png)
 
 ## 📊 Results & Key Findings
 - Major complaint areas: Identified billing disputes, credit reporting errors and accunt managment issues as tio areas of conusmer dissatisfaction.
