@@ -14,7 +14,7 @@ Store Performance: Analyze store operation to determine which locations perform 
 
 ## 🖼 Visuals
 Sales Overview Dashboard: Displays key metrics such as totals sales, quanitity sold, customer count, and gross profit, alongside trends over the years and regional sales distribution.
-- ![Sales_Dashboard](project3_chart.png)
+- ![Sales_Dashboard](https://github.com/gedebumeron/Other-Projects/blob/main/Contoso%20Dashboard.png)
 
 Customer Details Dashboard: Visualizes customer growth over time, breakdown by gender, and distribution across age groups, providing a clear picture of the customer base.
 - ![Customer_dashboard](project3_dashboard.png)
