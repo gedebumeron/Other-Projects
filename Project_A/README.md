@@ -20,7 +20,7 @@ Customer Details Dashboard: Visualizes customer growth over time, breakdown by g
 - ![Customer_dashboard](https://github.com/gedebumeron/Other-Projects/blob/main/Contoso%20Customer%20.png)
 
 Store Details Dashboard : Offers  insights into total and restructured stores by country, store age and their performance metrics.
-- ![Store_dashboard](project3_dashboard.png)
+- ![Store_dashboard](https://github.com/gedebumeron/Other-Projects/blob/main/Contoso%20Store.png)
 
 ## 📊 Results & Key Findings
 -Sales Performance: Highlighted significant growth in total sales and profitability over the years with peak sales observed in recent periods.
