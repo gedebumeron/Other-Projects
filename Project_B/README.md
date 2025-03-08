@@ -16,7 +16,7 @@ Communication analysis: Analyze the methods through which consusmers prefer to c
 ## 🖼 Visuals
 - Consumer overview dashboard: Showcases key metrics such as the total number of complaints, percentage resolved and persentage disputed.
 - Complaint distribution: Analyzes the distribution of complaints by day and month, providing insights into peak times for complaints.
-- ![Consumer Complaint](project3_chart.png)
+- ![Consumer Complaint](https://github.com/gedebumeron/Other-Projects/blob/main/Consumer%20complaints%20dashboard%20overview.png)
 
   Communication Methods Analysis: Offers breakdown of complaint percentages by communication methods, highlighting the most and least effective channels.
   Top 5 Complaints: Lists the most common complaints, giving proority areas for improvment.
