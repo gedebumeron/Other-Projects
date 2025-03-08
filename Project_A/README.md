@@ -17,7 +17,7 @@ Sales Overview Dashboard: Displays key metrics such as totals sales, quanitity s
 - ![Sales_Dashboard](https://github.com/gedebumeron/Other-Projects/blob/main/Contoso%20Dashboard.png)
 
 Customer Details Dashboard: Visualizes customer growth over time, breakdown by gender, and distribution across age groups, providing a clear picture of the customer base.
-- ![Customer_dashboard](project3_dashboard.png)
+- ![Customer_dashboard](https://github.com/gedebumeron/Other-Projects/blob/main/Contoso%20Customer%20.png)
 
 Store Details Dashboard : Offers  insights into total and restructured stores by country, store age and their performance metrics.
 - ![Store_dashboard](project3_dashboard.png)
